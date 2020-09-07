@@ -1,4 +1,4 @@
-# Hi there 👾
+# Hi there! 👾
 
 I'm Filip. I'm a determined web programmer, who loves to learn and most of all create new and unconvetional stuff. <br/>
 I mainly code in React <img src="https://user-images.githubusercontent.com/61311621/92415535-a9b7cd80-f159-11ea-9415-755604d8bcca.png" alt="react" height="25" align="center"/>
