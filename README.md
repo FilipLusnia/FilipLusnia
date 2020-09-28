@@ -8,6 +8,7 @@ I mainly code in React <img src="https://user-images.githubusercontent.com/61311
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipLusnia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FilipLusnia)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/filiplusnia/
