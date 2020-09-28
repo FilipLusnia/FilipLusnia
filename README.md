@@ -7,9 +7,11 @@ I mainly code in React <img src="https://user-images.githubusercontent.com/61311
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="center" alt="FilipLusniaLinkedIn" width="17px" /> Filip Luśnia][linkedin]
 
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipLusnia)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br/> 
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FilipLusnia)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/filiplusnia/
