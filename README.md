@@ -23,6 +23,6 @@ I mainly code in React <img src="https://user-images.githubusercontent.com/61311
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FilipLusnia)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/filiplusnia/
-[WaveMarket]: https://github.com/FilipLusnia/WaveMarket
-[Oddam w dobre ręce]: https://github.com/FilipLusnia/Oddam-w-dobre-rece
-[Project: Driver]: https://github.com/FilipLusnia/Project-Driver
+[WaveMarket]: https://filiplusnia.github.io/WaveMarket/
+[Oddam w dobre ręce]: https://filiplusnia.github.io/Oddam-w-dobre-rece/
+[Project: Driver]: https://filiplusnia.github.io/Project-Driver/
