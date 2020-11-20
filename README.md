@@ -8,7 +8,7 @@ I mainly code in React <img src="https://user-images.githubusercontent.com/61311
 
 <br/>
 
-### My Projects: 
+### Some of my projects: 
 - [Project: Driver] - a site with automotive quizes, forum and level system
 - [WaveMarket] - an app that visualises hidden Spotify song features
 - [Oddam w dobre ręce] - a site that lets people give stuff they don't need to organization, which later provieds it to people in need
