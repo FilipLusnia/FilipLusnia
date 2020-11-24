@@ -11,7 +11,7 @@ I mainly code in React <img src="https://user-images.githubusercontent.com/61311
 ### Some of my projects: 
 - [Project: Driver] - a site with automotive quizes, forum and level system
 - [WaveMarket] - an app that visualises hidden Spotify song features
-- [Oddam w dobre ręce] - a site that lets people give stuff they don't need to organization, which later provieds it to people in need
+- [Order this, order that] - android app, providing an easy way to order and manage orders from registered users
 
 <br/>
 <br/>
@@ -22,5 +22,5 @@ I mainly code in React <img src="https://user-images.githubusercontent.com/61311
 
 [linkedin]: https://www.linkedin.com/in/filiplusnia/
 [WaveMarket]: https://filiplusnia.github.io/WaveMarket/
-[Oddam w dobre ręce]: https://filiplusnia.github.io/Oddam-w-dobre-rece/
+[Order this, order that]: https://github.com/FilipLusnia/Order-This-Order-That
 [Project: Driver]: https://filiplusnia.github.io/Project-Driver/
