@@ -1,6 +1,6 @@
 # Hi there! 💡
 
-I'm Filip. I'm a determined web programmer, who loves to learn and most of all create new and unconvetional stuff. <br/>
+I'm Filip. I'm a determined web programmer, who loves to learn and most of all create new and unconventional stuff. <br/>
 I code frontend related stuff in Javascript and Typescript with addition of React. I also learn wrtiting native apps in React Native and backend in Node + Express.
 
 ## LinkedIn: 
