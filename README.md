@@ -2,6 +2,7 @@
 
 I'm Filip. I'm a determined web programmer, who loves to learn and most of all create new and unconventional stuff. <br/>
 I code frontend related stuff in Javascript and Typescript with addition of React. I also learn wrtiting native apps in React Native and backend in Node + Express.
+Be sure to check out my website: https://filiplusnia.me/ !
 
 ## LinkedIn: 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="center" alt="FilipLusniaLinkedIn" width="17px" /> Filip Luśnia][linkedin]
