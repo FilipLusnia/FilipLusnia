@@ -10,6 +10,7 @@ Be sure to check out my website: https://filiplusnia.me/ !
 <br/>
 
 ### Some of my projects: 
+- [Portfolio] - my personal portfolio site
 - [Project: Driver] - a site with automotive quizes, forum and level system
 - [WaveMarket] - an app that visualises hidden Spotify song features
 - [Order this, order that] - android app, providing an easy way to order and manage orders from registered users
@@ -25,3 +26,4 @@ Be sure to check out my website: https://filiplusnia.me/ !
 [WaveMarket]: https://filiplusnia.github.io/WaveMarket/
 [Order this, order that]: https://github.com/FilipLusnia/Order-This-Order-That
 [Project: Driver]: https://filiplusnia.github.io/Project-Driver/
+[Portfolio]: https://filiplusnia.me/
