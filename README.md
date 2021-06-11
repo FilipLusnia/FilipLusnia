@@ -10,7 +10,7 @@ I code frontend related stuff in Javascript and Typescript with addition of Reac
 <br/>
 
 ### Some of my projects: 
-- [Portfolio] - my personal portfolio site
+- [Ingresso] - official website of the Polish door manufacturer Ingresso
 - [Project: Driver] - a site with automotive quizes, forum and level system
 - [WaveMarket] - an app that visualises hidden Spotify song features
 - [Order this, order that] - android app, providing an easy way to order and manage orders from registered users
@@ -26,4 +26,4 @@ I code frontend related stuff in Javascript and Typescript with addition of Reac
 [WaveMarket]: https://filiplusnia.github.io/WaveMarket/
 [Order this, order that]: https://github.com/FilipLusnia/Order-This-Order-That
 [Project: Driver]: https://filiplusnia.github.io/Project-Driver/
-[Portfolio]: https://filiplusnia.me/
+[Ingresso]: https://ingresso.com.pl/
