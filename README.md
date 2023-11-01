@@ -2,7 +2,7 @@
 
 I'm Filip, a determined web programmer, who loves to learn and most of all create new and unconventional stuff. <br/>
 I code frontend related software, mostly in Typescript and React + Next.js.
-
+<br/><br/>
 ### Portfolio:
 https://filiplusnia.me - be sure to check out my portfolio, where you can look up my works / projects I took part in
 
